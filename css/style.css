@@ -1,0 +1,23 @@
+
+/* .gambar{
+    background-image: url('./../Logo/michal-parzuchowski-37537-unsplash1.jpg');
+    padding-top: 310px;
+    text-align: center;
+    padding-bottom: 510px;
+} */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif
+}
+.nama{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
